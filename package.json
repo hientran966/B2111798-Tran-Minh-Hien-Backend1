@@ -1,0 +1,23 @@
+{
+  "name": "b2111798-tran-minh-hien-backend1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hientran966/B2111798-Tran-Minh-Hien-Backend1.git"
+  },
+  "author": "Tran Minh Hien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hientran966/B2111798-Tran-Minh-Hien-Backend1/issues"
+  },
+  "homepage": "https://github.com/hientran966/B2111798-Tran-Minh-Hien-Backend1#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
